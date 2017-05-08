@@ -5,6 +5,6 @@
 attach_recon_packages <- function() {
   packages <- c("epicontacts", "outbreaks", "incidence")
   for(pkg in packages) {
-    eval(substitute(library(x), list(x = pkg)))
+    eval(substitute(fun(x), list(x = pkg, fun = as.symbol("library"))))
   }
 }
