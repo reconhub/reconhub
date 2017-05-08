@@ -1,45 +1,43 @@
----
-output: github_document
----
 
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/reconhub)](https://cran.r-project.org/package=reconhub)
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/reconhub)](https://cran.r-project.org/package=reconhub)
 
-# *reconhub*
+*reconhub*
+==========
 
 This packages installs and loads all stable RECON packages similiar to the [tidyverse](https://github.com/tidyverse/tidyverse) package.
 
 Work in progress.
 
-## Installing the package
+Installing the package
+----------------------
 
 To install the current stable, CRAN version of the package, type:
-```{r install, eval = FALSE}
+
+``` r
 install.packages("reconhub")
 ```
 
 To benefit from the latest features and bug fixes, install the development, *github* version of the package using:
-```{r install2, eval = FALSE}
+
+``` r
 devtools::install_github("reconhub/reconhub")
 ```
 
 Note that this requires the package *devtools* installed.
 
+What does it do?
+================
 
-# What does it do?
-
-```{r, eval = FALSE}
+``` r
 # attaches all stable recon packages
 library(reconhub)
 ```
 
+Getting help online
+-------------------
 
-
-## Getting help online
-
-Bug reports and feature requests should be posted on *github* using the [*issue*](http://github.com/reconhub/epicontacts/issues) system. All other questions should be posted on the **RECON forum**: <br>
-[http://www.repidemicsconsortium.org/forum/](http://www.repidemicsconsortium.org/forum/)
+Bug reports and feature requests should be posted on *github* using the [*issue*](http://github.com/reconhub/epicontacts/issues) system. All other questions should be posted on the **RECON forum**: <br> <http://www.repidemicsconsortium.org/forum/>
 
 Contributions are welcome via **pull requests**.
 
 Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
-
