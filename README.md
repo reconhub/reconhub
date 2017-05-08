@@ -36,7 +36,7 @@ library(reconhub)
 Getting help online
 -------------------
 
-Bug reports and feature requests should be posted on *github* using the [*issue*](http://github.com/reconhub/epicontacts/issues) system. All other questions should be posted on the **RECON forum**: <br> <http://www.repidemicsconsortium.org/forum/>
+Bug reports and feature requests should be posted on *github* using the [*issue*](http://github.com/reconhub/reconhub/issues) system. All other questions should be posted on the **RECON forum**: <br> <http://www.repidemicsconsortium.org/forum/>
 
 Contributions are welcome via **pull requests**.
 
