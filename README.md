@@ -33,6 +33,12 @@ What does it do?
 library(reconhub)
 ```
 
+    ## Attaching package epicontacts
+
+    ## Attaching package outbreaks
+
+    ## Attaching package incidence
+
 Getting help online
 -------------------
 

@@ -28,7 +28,7 @@ Note that this requires the package *devtools* installed.
 
 # What does it do?
 
-```{r, eval = FALSE}
+```{r, eval = TRUE}
 # attaches all stable recon packages
 library(reconhub)
 ```
