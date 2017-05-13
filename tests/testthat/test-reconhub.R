@@ -4,4 +4,3 @@ test_that("packages get attached automatically", {
   expect_true(is.function(incidence))
   expect_true(is.data.frame(ebola_kikwit_1995))
 })
-
