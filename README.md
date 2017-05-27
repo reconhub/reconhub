@@ -39,6 +39,12 @@ library(reconhub)
 
     ## Attaching package incidence
 
+Also, you can install all development versions of RECON packages:
+
+``` r
+reconhub::install_dev_versions()
+```
+
 Getting help online
 -------------------
 

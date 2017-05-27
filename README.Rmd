@@ -33,6 +33,11 @@ Note that this requires the package *devtools* installed.
 library(reconhub)
 ```
 
+Also, you can install all development versions of RECON packages:
+
+```{r, eval = FALSE}
+reconhub::install_dev_versions()
+```
 
 
 ## Getting help online
