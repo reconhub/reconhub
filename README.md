@@ -6,8 +6,6 @@
 
 This packages installs and loads all stable RECON packages similiar to the [tidyverse](https://github.com/tidyverse/tidyverse) package.
 
-Work in progress.
-
 Installing the package
 ----------------------
 
